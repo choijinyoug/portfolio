@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.h_wrap{
+  margin: 0 auto;
+  width: 70%;
+  padding-top:3vh;
+}
+.h_menu{
+  margin-right:70px;
+  font-size: 25px;
+}
+
+/* 푸터 */
+footer{
+  height: 50px;
+  background-color: rgb(36, 36, 36);
+  top: 2040px;
+  position: relative;
+}
+
+footer >address{
+  text-align: center;
+  line-height:50px;
+  font-style: normal;
+  color: #fff;
+}
+
